@@ -1,3 +1,15 @@
+
+
+
+
+
+<img width="280" height="498" alt="mono-que-saca-el-dedo" src="https://github.com/user-attachments/assets/673a395d-e061-4151-9718-f5f5f23054fb" />
+
+
+
+
+
+
 El grupo  que desarolla esta aplicacion esta formado por ; 
 
 Aitor Lopez Guerrero 
